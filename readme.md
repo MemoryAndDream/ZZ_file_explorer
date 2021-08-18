@@ -23,7 +23,8 @@
 选择需要共享的文件夹
 扫描二维码或者复制地址打开
 
-
+## 源码依赖
+webvtt需要用 pip install webvtt-py 安装.
 
 
 ## ZZ PC file explorer
